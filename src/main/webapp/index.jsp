@@ -4,7 +4,6 @@
 <!--[if (gt IE 9)|!(IE)]><!--> <html class="no-js" lang="en-US" > <!--<![endif]-->
 
 <h1> I AM  MADHUkiran GOREKAR , A PASSIONATE DEVOPS LEARNER </h1>
-<h1> I AM  MADHUkiran GOREKAR , A PASSIONATE DEVOPS LEARNER <h1>
 
 <head>
         <meta charset="UTF-8" >
